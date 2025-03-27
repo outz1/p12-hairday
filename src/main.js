@@ -2,7 +2,6 @@
 
 // Import Day.js
 import "../src/libs/day.js";
-console.log(dayjs().format("DD/MM - HH:mm"));
 
 // Import CSS
 import "../src/styles/global.css";
@@ -12,3 +11,6 @@ import dayjs from "dayjs";
 
 // Import JS
 import "./modules/form/submit.js";
+import "./modules/form/date-change.js"
+import "./modules/page-load.js";
+
