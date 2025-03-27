@@ -14,8 +14,7 @@ export async function scheduleFetchByDay({ date }) {
       dayjs(date).isSame(schedule.when, "date")
     );
 
-    return dailySchedules
-
+    return dailySchedules;
   } catch (error) {
     console.log(error);
     console.log("Não foi possível buscar os agendamentos do dia selecionado");
