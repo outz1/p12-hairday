@@ -58,3 +58,12 @@ body {
     flex-direction: column;
   }
 }
+
+.cancel-icon:hover {
+  animation: slide 2s ease;
+}
+
+@keyframes slide {
+  0% { transform: rotate(0deg);}
+  100% {transform: rotate(90deg);}
+}
