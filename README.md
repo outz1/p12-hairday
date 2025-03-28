@@ -1,5 +1,7 @@
 Projeto feito em conjunto com a Rocketseat de uma aplicação web com o intuito de realizar agendamentos, foi usado somente o vanilla Javascript
 
+- Funcionalidades de adicionar e remover clientes e boas práticas de UI e UX para os usuários
+
 ______________________________________________________________________________________
 ![p1](https://github.com/user-attachments/assets/4904fb60-97ad-4dde-839d-91c6cca81300)
 ______________________________________________________________________________________
